@@ -34,7 +34,6 @@ Para ejecutar este proyecto, necesitas tener instalado lo siguiente en tu máqui
 
 ## Instalación
 
-1. Clona este repositorio en tu máquina local:
+1. Clona el codigo que esta la parte de files, el codigo esta en la carpeta Principal.java:
 
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   
